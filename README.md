@@ -32,7 +32,15 @@ The overview of this analysis is to use machine learning and neural networks to 
   ![Alt text](image.png)
 
 * No, I was unable to achieve the target performance.
-* The steps I took is to increase rhe number of layers, the nuber of nuerons and the activation layers.
+* The steps I took is that I increased the number of layers, the nuber of nuerons and the activation layers.
+
+  - first changes
+    ![Alt text](first-image-2.png)
+    ![Alt text](first-image-1.png)
+
+  - second changes
+    ![Alt text](second-image-2.png)
+    ![Alt text](second-image-1.png)
 
 ### Summary
 
